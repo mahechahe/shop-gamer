@@ -1,0 +1,5 @@
+Flujo de desarollo con Eslint y prettier
+
+Eslint: Leer nuestros archivos y pasarle configuraciones para manejar un estandar del codigo: npm i -g eslint;
+
+Prettier: Lineamiento establecido de nuestro codigo, un estadar de identacion, de comas etc...
